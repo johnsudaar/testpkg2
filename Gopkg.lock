@@ -4,12 +4,12 @@
 [[projects]]
   name = "github.com/johnsudaar/testpkg1"
   packages = ["."]
-  revision = "b357c53500d604bb6436dd530d57b287b4704e29"
-  version = "0.0.1"
+  revision = "8698b6bc159a877c40a53f69d46699adc7eeea4f"
+  version = "1.0.0"
 
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "119980ab5259dfbb70d46e9ef5934f387ac21d1ffc8f0f5a8c855ccefb52b7d3"
+  inputs-digest = "7c7452b65135d90128f35eef97d860babf984a26abe2e6980fdfbfe1f67b6514"
   solver-name = "gps-cdcl"
   solver-version = 1
